@@ -1,0 +1,352 @@
+{
+  "main": {
+    "id": "c79e9ca29303a463",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc682512adcf1a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08c2733e0e68e247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/TSNM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TSNM"
+            }
+          },
+          {
+            "id": "7ed208391eaebd55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00ReadMe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00ReadMe"
+            }
+          },
+          {
+            "id": "9351cdf38193ba0c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/IMG_8545.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "IMG_8545"
+            }
+          },
+          {
+            "id": "5679adfb9942319d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/IMG_8545.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "IMG_8545"
+            }
+          },
+          {
+            "id": "1d97ee3be7a961f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminology/affect theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "affect theory"
+            }
+          },
+          {
+            "id": "a857f05d546ca41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminology/affect theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "affect theory"
+            }
+          },
+          {
+            "id": "68ded2ffb378e44b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00ReadMe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00ReadMe"
+            }
+          },
+          {
+            "id": "e30ae65e68287af3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/IMG_8545.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "IMG_8545"
+            }
+          },
+          {
+            "id": "129a1ed2dc251890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00ReadMe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00ReadMe"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "482b916a6c7045ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eae9c9e80cfe049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0e8c43e60ecf58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2324f5f243d21d6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07a8a10285fa9079",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34944a08cfee907d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd1016997950e73d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "972939e221341445",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sources/TSNM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TSNM"
+            }
+          },
+          {
+            "id": "a2d031c015092294",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "acc3b78e4b52d450",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0afe3658ae77b8e0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c13924cc1b16a3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "16d328caadf2c2dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "4edea490956ce889",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "129a1ed2dc251890",
+  "lastOpenFiles": [
+    "06Affect Theory And AI.md",
+    "Reading List.md",
+    "05The Affective Turn.md",
+    "04The Transformer.md",
+    "03History of AI.md",
+    "02Models and Language.md",
+    "01Knowledge and Wisdom.md",
+    "00ReadMe.md",
+    "images/Frankenstein.md",
+    "images/IMG_8545.jpeg",
+    "do not upload/Sources/TSNM.md",
+    "do not upload/Sources/Attention is All You Need.md",
+    "do not upload/Sources/Artificial Intelligence - A General Survey.md",
+    "do not upload/workplace affects.md",
+    "Artificial Intelligence]].md",
+    "Terminology/self-attention.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Terminology/model training.md",
+    "Terminology/The Knowledge Management Pyramid.md",
+    "Terminology/reasoning.md",
+    "Terminology/rationalists.md",
+    "Terminology/neural networks.md",
+    "Terminology/natural language.md",
+    "Terminology/machine learning.md",
+    "Terminology/large language models.md",
+    "Terminology/human wisdom.md",
+    "Terminology/generative AI.md",
+    "do not upload",
+    "images/desktop.ini",
+    "images",
+    "do not upload/Sources",
+    "Untitled.canvas",
+    "Terminology",
+    "Transformer",
+    "History Of AI"
+  ]
+}

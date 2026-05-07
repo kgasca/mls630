@@ -10,9 +10,17 @@ subset:
 
 # 00ReadMe
 
-I have spent this semester researching artificial intelligence and affect theory.  Initially, I had hoped to write a critical reflection that captured my research and understanding on where these topics intersect. As I began to write, and write, and write, it seemed to be the ideas were too big to wrangle into a single orderly paper.
+This semester has been spent researching artificial intelligence and affect theory and determining their points of intersection. 
 
-Early in the semester, I had an idea of a conspiracy/murder board that showed the links between people, universities, companies, and ideas. I had heard about Obsidian and was impressed with the built-in knowledge mapping graph. Here was a tool I could use to show connections between my research and structure what I accomplished this semester into a final deliverable. It would also give me an opportunity to work with markdown files (.md) and use the programming commands I've been learning as part of my [introductory python course.](https://learncodethehardway.org/python/)
+I have also spent time building several key technical skills including:
+
+- programming languages (python) 
+- programing syntax (markdown)
+- file types (.md)
+- version control (git and github)
+- knowledge graphs (obsidian)
+- knowledge base structure (obsidian)
+
 
 I've created the following structured hierarchy for this semester of research using ideas found on [this site](https://www.emilevankrieken.com/blog/2025/academic-obsidian/) and [this site](https://wanderloots.xyz/digital-garden/tutorials/how-i-use-tags-and-topic-notes-for-structured-and-emergent-organization/). This particular vault was created to mimic [[IMG_8545.jpeg]] which I created during our writing seminar.
 
