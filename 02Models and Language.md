@@ -6,7 +6,7 @@ tags:
 date: "2026-05-02"
 ---
 
-# Language Models
+# Models and Language
 
 The term [[Artificial Intelligence]] was coined by John McCarthy, among others, in 1950 in a proposal for a workshop taking place at Dartmouth that summer. 
 
@@ -16,7 +16,7 @@ Human wisdom and knowledge can be communicated through language. Our natural lan
 
 But building machines to reason about the world as if it were a large, coherent system did not achieve a  mirror human intelligence. The world is not a collection of clearly defined objects, categories and functions. The natural world cannot be expressed as a simple set of increasingly complex logical rules. Human language is contradictory — there are very few incontrovertible facts, there are always nuances.
 
-For decades, researchers attacked the problem [[rationalist]] perspective. The earliest systems depended on sequential understanding and formal language processes to create solutions. They were all successful in some ways, but the idea of a machine being able to generate natural language or think like humans do was still out of reach. Until we started thinking about connections. 
+For decades, researchers attacked the problem [[rationalist]] perspective. The earliest systems depended on sequential understanding and formal language processes to create solutions. They were all successful in some ways, but the idea of a machine being able to generate natural language or think like humans do was still out of reach. The early models were unable to capture the nuances found in the natural world. Until we started thinking about connections. 
 
 
 

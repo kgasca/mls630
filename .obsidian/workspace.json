@@ -119,12 +119,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00ReadMe.md",
+                "file": "06Affect Theory And AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00ReadMe"
+              "title": "06Affect Theory And AI"
             }
           }
         ],
@@ -312,6 +312,12 @@
   },
   "active": "129a1ed2dc251890",
   "lastOpenFiles": [
+    "05The Affective Turn.md",
+    "04The Transformer.md",
+    "03History of AI.md",
+    "02Models and Language.md",
+    "01Knowledge and Wisdom.md",
+    "00ReadMe.md",
     "do not publish/Sources/Attention is All You Need.md",
     "do not publish/Sources/TSNM.md",
     "do not publish/Sources/Artificial Intelligence - A General Survey.md",
@@ -320,12 +326,6 @@
     "do not publish",
     "06Affect Theory And AI.md",
     "Reading List.md",
-    "05The Affective Turn.md",
-    "04The Transformer.md",
-    "03History of AI.md",
-    "02Models and Language.md",
-    "01Knowledge and Wisdom.md",
-    "00ReadMe.md",
     "images/Frankenstein.md",
     "images/IMG_8545.jpeg",
     "do not upload/Sources/TSNM.md",

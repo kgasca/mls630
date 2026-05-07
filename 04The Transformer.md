@@ -14,7 +14,7 @@ Traditionally, for these types of computational tasks, most scientists used recu
 
 The authors of "Attention is All You Need" introduce an entirely new approach to solving language modeling and machine translation problems - specifically English-to-German and English-to-French translation tasks. They named this new network architecture model *the transformer*. 
 
-The authors used a mechanism called self-attention where each word (symbol) was evaluated individually in relation to every other word around it. The word was processed through a single attention layer (head) which worked in parallel with other layers (multi-head attention). This solution reduced the amount of compute needed and decreased the training time. This model unlocked the true potential of [[large language models]] (LLMs). These models generate content by accurately predicting the next word in a sequence. They are trained on a large corpus of language and their outputs are probabilistic not deterministic. This architecture is still one of the most heavily used for the popular tools we use today such as ChatGPT and Claude.
+The authors used a mechanism called self-attention where each word (symbol) was evaluated individually in relation to every other word around it. The word was processed through a single attention layer (head) which worked in parallel with other layers (multi-head attention). This solution reduced the amount of compute needed and decreased the training time. This model unlocked the true potential of [[large language models]] (LLMs). These models generate content by accurately predicting the next word in a sequence. This architecture is still one of the most heavily used for the popular tools we use today such as ChatGPT and Claude.
 
 
 
